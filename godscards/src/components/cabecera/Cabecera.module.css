@@ -1,0 +1,7 @@
+.container{
+    display: grid;
+    text-align: center;
+    color: white;
+    background-color: black;
+    font-size: 2em;
+}

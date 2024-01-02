@@ -1,10 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300&family=Montserrat+Alternates:ital,wght@1,500&display=swap');
+
+
 .App {
   text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+  font-family: 'Montserrat Alternates';
 }
 
 @media (prefers-reduced-motion: no-preference) {

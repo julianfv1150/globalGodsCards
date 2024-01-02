@@ -1,0 +1,273 @@
+[
+    {   
+        "id": 1, 
+        "Pertenencia": "Grecia", 
+        "Nombre":"Zeus", 
+        "Habilidad": "Control del rayo",
+        "Primario":true,
+        "Descripción":"Es el soberano del Olimpo y líder de los dioses",
+        "path":"images/griegos/Zeus"
+    }, 
+    {
+        "id": 2, 
+        "Pertenencia": "Grecia", 
+        "Nombre":"Poseidón", 
+        "Habilidad": "Control del mar",
+        "Primario":false,
+        "Descripción":"Es hermano de Zeus y Hades",
+        "path":"images/griegos/Poseidon"
+    },
+    {
+        "id": 3, 
+        "Pertenencia": "Grecia", 
+        "Nombre":"Hades", 
+        "Habilidad": "Control del reino de los muertos",
+        "Primario":false,
+        "Descripción":"s hermano de Zeus y Poseidón",
+        "path":"../../images/griegos/Hades"
+    },
+    {
+        "id": 4, 
+        "Pertenencia": "Grecia", 
+        "Nombre":"Atenea", 
+        "Habilidad": "La sabiduría, la astucia y las técnicas de la guerra",
+        "Primario":false,
+        "Descripción":"Nació completamente armada de la cabeza de su padre Zeus",
+        "path":"../../images/griegos/Atenea"
+    },
+    {
+        "id": 5, 
+        "Pertenencia": "Grecia", 
+        "Nombre":"Apolo", 
+        "Habilidad": "El arco y la flecha, así también las artes",
+        "Primario":false,
+        "Descripción":"Es gemelo de Artemisa y representa la armonía y la belleza",
+        "path":"../../images/griegos/Apolo"
+    },
+    {
+        "id": 6, 
+        "Pertenencia": "Asgard", 
+        "Nombre":"Odín", 
+        "Habilidad": "Conocimiento de las runas y la profecía",
+        "Primario":true,
+        "Descripción":"Es el líder de los Aesir",
+        "path":"../../images/nordicos/Odin"
+    },
+    {
+        "id": 7, 
+        "Pertenencia": "Asgard", 
+        "Nombre":"Thor", 
+        "Habilidad": "Una gran fuerza y el control sobre el martillo Mjolnir",
+        "Primario":false,
+        "Descripción":"Es el hijo de Odín y protector de la humanidad",
+        "path":"../../images/nordicos/Thor"
+    },
+    {
+        "id": 8, 
+        "Pertenencia": "Asgard", 
+        "Nombre":"Loki", 
+        "Habilidad": "La transfrmación y la manipulación",
+        "Primario":false,
+        "Descripción":"Es un ser complejo asociado con la dualidad",
+        "path":"../../images/nordicos/Loki"
+    },
+    {
+        "id": 9, 
+        "Pertenencia": "Asgard", 
+        "Nombre":"Freya", 
+        "Habilidad": "Un gran poder mágico y la sanación",
+        "Primario":false,
+        "Descripción":"Diosa del amor, destacada por los Vanir",
+        "path":"../../images/nordicos/Freya"
+    },
+    {
+        "id": 10, 
+        "Pertenencia": "Asgard", 
+        "Nombre":"Balder", 
+        "Habilidad": "La luz y la belleza",
+        "Primario":false,
+        "Descripción":"Es hijo de Odín y reconocido con la luz y la inocencia",
+        "path":"../../images/nordicos/Balder"
+    },
+    {
+        "id": 11, 
+        "Pertenencia": "Egipto", 
+        "Nombre":"Ra", 
+        "Habilidad": "Control del sol y el calor",
+        "Primario":true,
+        "Descripción":"Dios del sol, creador, y supremo",
+        "path":"../../images/egipcios/Ra"
+    },
+    {
+        "id": 12, 
+        "Pertenencia": "Egipto", 
+        "Nombre":"Osiris", 
+        "Habilidad": "Gobernante del inframundo",
+        "Primario":false,
+        "Descripción":"Es un dios benevolente con el poder de renacer",
+        "path":"../../images/egipcios/Osiris"
+    },
+    {
+        "id": 13,
+        "Pertenencia": "Egipto", 
+        "Nombre":"Isis", 
+        "Habilidad": "La magia y la protección",
+        "Primario":false,
+        "Descripción":"Es conocida por su papel en la resurrección de Osiris",
+        "path":"../../images/egipcios/Isis"
+    },
+    {
+        "id": 14,
+        "Pertenencia": "Egipto", 
+        "Nombre":"Horus", 
+        "Habilidad": "La guerra, la caza y una vista aguda",
+        "Primario":false,
+        "Descripción":"Es el hijo de Isis y Osiris, es el dios Halcón",
+        "path":"../../images/egipcios/Horus"
+    },
+    {
+        "id": 15,
+        "Pertenencia": "Egipto", 
+        "Nombre":"Anubis", 
+        "Habilidad": "Protector de tumbas, guía las almas en el inframundo",
+        "Primario":false,
+        "Descripción":"Anubis tiene una apariencia de chacal",
+        "path":"../../images/egipcios/Anubis"
+    },
+    {
+        "id": 16,
+        "Pertenencia": "Hindú", 
+        "Nombre":"Brahma", 
+        "Habilidad": "Creación y renovación cósmica",
+        "Primario":true,
+        "Descripción":"Es el creador del universo",
+        "path":"../../images/hindues/Brahma"
+    },
+    {
+        "id": 17,
+        "Pertenencia": "Hindú", 
+        "Nombre":"Vishnu", 
+        "Habilidad": "Conservación del orden cósmico y las encarnaciones",
+        "Primario":false,
+        "Descripción":"Es un dios preservador, responsable de mantener el equilibrio cósmico",
+        "path":"../../images/hindues/Vishnu"
+    },
+    {
+        "id": 18,
+        "Pertenencia": "Hindú", 
+        "Nombre":"Shiva", 
+        "Habilidad": "Destrucción del mal y transformación cósmica",
+        "Primario":false,
+        "Descripción":"Porta el poder de la destrucción y la regeneración en su interior",
+        "path":"../../images/hindues/Shiva"
+    },
+    {
+        "id": 19,
+        "Pertenencia": "Hindú", 
+        "Nombre":"Durga", 
+        "Habilidad": "Combate contra el mal y la protección divina",
+        "Primario":false,
+        "Descripción":"Es una diosa guerrera",
+        "path":"../../images/hindues/Durga"
+    },
+    {
+        "id": 20,
+        "Pertenencia": "Hindú", 
+        "Nombre":"Ganesha", 
+        "Habilidad": "Eliminación de obstáculos y otorgar prosperidad",
+        "Primario":false,
+        "Descripción":"Es el dios de la sabiduría, la inteligencia y la superación de obstáculos",
+        "path":"../../images/hindues/Ganesha"
+    },
+    {
+        "id": 21,
+        "Pertenencia": "China", 
+        "Nombre":"Yu Huang", 
+        "Habilidad": "Controla el destino de la humanidad y el equilibrio cósmico",
+        "Primario":true,
+        "Descripción":"El gobernante supremo del cielo",
+        "path":"../../images/chinos/Yu Huang"
+    },
+    {
+        "id": 22,
+        "Pertenencia": "China", 
+        "Nombre":"Nuwa", 
+        "Habilidad": "Creación y reparación de los cielos",
+        "Primario":false,
+        "Descripción":"Se le atribuye la creación de la humanidad",
+        "path":"../../images/chinos/Nuwa"
+    },
+    {
+        "id": 23,
+        "Pertenencia": "China", 
+        "Nombre":"Pangu", 
+        "Habilidad": "desconocida",
+        "Primario":false,
+        "Descripción":"Gigante primordial que se separó a sí mismo del caos para crear el mundo",
+        "path":"../../images/chinos/Pangu"
+    },
+    {
+        "id": 24,
+        "Pertenencia": "China", 
+        "Nombre":"Chang'e", 
+        "Habilidad": "La luna",
+        "Primario":false,
+        "Descripción":"Se la asocia con ela leyenda del festival del Medo Otoño",
+        "path":"../../images/chinos/Chang'e"
+    },
+    {
+        "id": 25,
+        "Pertenencia": "China", 
+        "Nombre":"Sun Wukong", 
+        "Habilidad": "La astucia y la fuerza",
+        "Primario":false,
+        "Descripción":"Rey mono de la novela clásica china Viaje al Oeste",
+        "path":"../../images/chinos/Sun Wukong"
+    },
+    {
+        "id": 26,
+        "Pertenencia": "Azteca", 
+        "Nombre":"Huitzilopochtli", 
+        "Habilidad": "Dios del sol, protector de los aztecas",
+        "Primario":true,
+        "Descripción":"Es el dios de la guerra, el sol y la victoria para los aztecas",
+        "path":"../../images/aztecas/Huitzilopochtli"
+    },
+    {
+        "id": 27,
+        "Pertenencia": "Azteca", 
+        "Nombre":"Tlaloc", 
+        "Habilidad": "Control de las lluvias",
+        "Primario":false,
+        "Descripción":"El dios de la lluvia toma un rol esencial en la agricultura para los aztecas",
+        "path":"../../images/aztecas/Tlaloc"
+    },
+    {
+        "id": 28,
+        "Pertenencia": "Azteca", 
+        "Nombre":"Quetzalcóatl", 
+        "Habilidad": "El control del viento, la creatividad y la sabiduría",
+        "Primario":false,
+        "Descripción":"A la serpiente emplumada se le atribuye la creación de la humanidad en algunas leyendas",
+        "path":"../../images/aztecas/Quetzalcóatl"
+    },
+    {
+        "id": 29,
+        "Pertenencia": "Azteca", 
+        "Nombre":"Xochiquetzal", 
+        "Habilidad": "Protectora de la feminidad, las artes y la belleza",
+        "Primario":false,
+        "Descripción":"Es la diosa del amor, la belleza y la fertilidad",
+        "path":"../../images/aztecas/Xochiquetzal"
+    },
+    {
+        "id": 30,
+        "Pertenencia": "Azteca", 
+        "Nombre":"Tezcatlipoca", 
+        "Habilidad": "La dualidad, el destino y el equilibrio cósmico",
+        "Primario":false,
+        "Descripción":"Es el dios del cielo nocturno y la providencia",
+        "path":"../../images/aztecas/Tezcatlipoca"
+    }
+
+]

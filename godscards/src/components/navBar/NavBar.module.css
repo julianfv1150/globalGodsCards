@@ -1,0 +1,17 @@
+.bar{
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.a{
+    color: white;
+    text-decoration: none;
+    font-size: 1.5em;
+}
+.menu{
+    border: 1px solid gray;
+    border-radius: 10%;
+    margin: 2px;
+}
