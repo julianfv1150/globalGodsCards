@@ -4,7 +4,8 @@ import Cabecera from './components/cabecera/Cabecera'
 import NavBar from './components/navBar/NavBar';
 import Home from './views/Home';
 import Maze from './views/Maze';
-// import Footer from './components/footer/Footer';
+import Footer from './views/Footer';
+
 import './App.css';
 
 function App() {
@@ -18,33 +19,22 @@ function App() {
         <Route path='/mazo' element={<Maze />} />
       {/*
         </Route>
-        
-        <Route path='/griegos'>
-          
+        <Route path='/griegos'>          
         </Route>
-        <Route path='/nordicos'>
-          
+        <Route path='/nordicos'>          
         </Route>
-        <Route path='/hindues'>
-          
+        <Route path='/hindues'>          
         </Route>
-        <Route path='/egipcios'>
-          
+        <Route path='/egipcios'>          
         </Route>
-        <Route path='/chinos'>
-          
+        <Route path='/chinos'>          
         </Route>
-        <Route path='/aztecas'>
-          
-        </Route>
-        
-        <Route path='details/:id'>
-          
-        </Route>
-
-        <Footer />
+        <Route path='/aztecas'>          
+        </Route>        
+        <Route path='details/:id'>          
       */}
       </Routes>
+      <Footer />
     </div>
   );
 }

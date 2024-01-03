@@ -1,0 +1,56 @@
+.transition{
+    margin: 0;
+    padding: 0;
+
+    transition: 1s;
+    transition-timing-function: linear;
+    animation-delay: 1s;
+    animation-fill-mode: backwards;
+}
+.transition:hover{
+    width: 100%;
+    height: 400px;
+}
+
+.frame{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding-bottom: 25px;
+}
+
+.frameR{
+    border-radius: 100%;
+    background-color: rgba(136, 135, 135, 0.8);
+    width: 15px;
+    height: 15px;
+    margin: 2%;
+    align-self: right;
+    justify-self: right;
+    align-content: right;
+    justify-content: right;
+    align-items: right;
+    justify-items: right;
+}
+.frameL{
+    border-radius: 100%;
+    background-color: rgba(170, 170, 170, 0.8);
+    width: 15px;
+    height: 15px;
+    margin: 2%;
+    align-self: left;
+    justify-self: left;
+    align-content: left;
+    justify-content: left;
+    align-items: left;
+    justify-items: left;
+}
+
+input[type="radio"]{
+    -webkit-appearance: none;
+    appearance: none;
+    border: 1px solid black;
+    background-color: rgb(109, 107, 107);
+}
+input[type="radio"]:checked{
+    background-color: rgb(182, 181, 181);
+}
